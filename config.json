@@ -1,0 +1,22 @@
+{
+  "params":
+  {
+
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/coding blog",
+    "prod_uri":"mysql://root:@localhost/coding blog",
+    "fb_url":"https://facebook.com/coding blog",
+    "tw_url":"https://twitter.com/coding blog",
+    "gh_url": "https://github.com/coding blog",
+    "blog_name":"Coding Blog",
+    "tag_line": "A blog like a Coder OR Programmer",
+    "gmail-user":"yourgmail@com",
+    "gmail-password": "yourgmailpassword",
+    "about_text": "Hi my name is nik and I create programming tutorials and blog",
+    "no_of_posts": 2,
+    "login_image":"login.svg",
+    "admin_user":"nik",
+    "admin_password": "123456789",
+    "upload_location":"C:\\Users\\Nitesh\\PycharmProjects\\flask-tut\\static"
+  }
+}
